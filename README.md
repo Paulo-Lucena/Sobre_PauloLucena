@@ -1,2 +1,5 @@
 # Sobre_PauloLucena
-![174857](https://user-images.githubusercontent.com/83320938/136126696-c0537c0b-ab7f-424e-a86c-7a23eb54045d.png)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/srpaulolucena/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" title="Linkedin Paulo Lucena">
+</p>
